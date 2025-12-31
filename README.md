@@ -26,6 +26,7 @@ A modern terminal user interface for managing Wazuh security agents, built with 
 </p>
 <p align="center">
     <img src="docs/img/wazuh-2.png" alt="Wazuh Rust TUI Agent List" width="700"/>
+    <br/>
     <sub><i>This section displays an automatically anonymized screen using the 'A' key to protect sensitive data.</i></sub>
 </p>
 
